@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard by Jose Delphin</title>
+<script defer src="runtime.js"></script><script defer src="main.js"></script></head>
+<body>
+    <header>
+        <h1>Leaderboard by Jose Delphin</h1>
+    </header>
+    <main class="container flex">
+        <section class="players flex">
+            <div class="playersHeader flex">
+                <h2>Recent scores</h2>
+                <button id="btnRefresh" type="button">Refresh</button>
+            </div>
+            <ul id='playersList' class="playersList"></ul>
+        </section>
+        <section class="addNewData flex">
+            <div class="addNewDataHeader flex">
+            <h2>Add your score</h2>
+            </div>
+            <form action="" class="formAddNewData flex">
+                <input type="text" name="name" id="name" placeholder="Your name">
+                <input type="text" name="score" id="score" placeholder="Your score">
+                <input type="submit" class="btnSubmit" value="Submit">
+            </form>
+        </section>
+    </main>
+    <footer>
+
+    </footer>
+    <script type="module" src="main.js"></script>
+</body>
+</html>
