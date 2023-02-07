@@ -44,7 +44,7 @@ h2 {
   margin-top: 10px;
 }
 
-.container .players .playersHeader #btnRefresh {
+.container .players .playersHeader .btnRefresh {
   box-shadow: 2px 2px 5px 2px #888;
   padding: 5px 15px;
 }
