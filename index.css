@@ -2,7 +2,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: aliceblue;
 }
 
 header {
@@ -47,17 +46,6 @@ h2 {
 .container .players .playersHeader .btnRefresh {
   box-shadow: 2px 2px 5px 2px #888;
   padding: 5px 15px;
-}
-
-.container .players .playersHeader .btnRefresh:hover {
-  background-color: gray;
-}
-
-.container .players .playersHeader .btnRefresh:active {
-  background-color: rgb(3, 60, 3);
-  color: white;
-  box-shadow: 0 5px rgb(36, 32, 32);
-  transform: translateY(3px);
 }
 
 .container .players .playersList {
@@ -117,15 +105,4 @@ h2 {
   align-self: flex-end;
   padding: 0 15px;
   box-shadow: 2px 2px 5px 2px #888;
-}
-
-.container .formAddNewData .btnSubmit:hover {
-  background-color: gray;
-}
-
-.container .formAddNewData .btnSubmit:active {
-  background-color: rgb(3, 60, 3);
-  color: white;
-  box-shadow: 0 5px rgb(36, 32, 32);
-  transform: translateY(3px);
 }

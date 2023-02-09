@@ -17,7 +17,6 @@ const updateDom = () => {
 };
 
 btnRefresh.addEventListener('click', () => {
-  document.getElementById('playersList').innerHTML = '';
   updateDom();
 });
 
