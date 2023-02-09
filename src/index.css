@@ -49,6 +49,17 @@ h2 {
   padding: 5px 15px;
 }
 
+.container .players .playersHeader .btnRefresh:hover {
+  background-color: gray;
+}
+
+.container .players .playersHeader .btnRefresh:active {
+  background-color: rgb(3, 60, 3);
+  color: white;
+  box-shadow: 0 5px rgb(36, 32, 32);
+  transform: translateY(3px);
+}
+
 .container .players .playersList {
   border: 2px solid #000;
   width: 100%;
@@ -106,4 +117,15 @@ h2 {
   align-self: flex-end;
   padding: 0 15px;
   box-shadow: 2px 2px 5px 2px #888;
+}
+
+.container .formAddNewData .btnSubmit:hover {
+  background-color: gray;
+}
+
+.container .formAddNewData .btnSubmit:active {
+  background-color: rgb(3, 60, 3);
+  color: white;
+  box-shadow: 0 5px rgb(36, 32, 32);
+  transform: translateY(3px);
 }
