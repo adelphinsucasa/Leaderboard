@@ -33,7 +33,6 @@ body {
 .upSection {
   display: flex;
   width: 100%;
-<<<<<<< HEAD
   flex-direction: row;
   justify-content: space-between;
   padding: 0;
@@ -69,9 +68,7 @@ body {
   display: flex;
   list-style: none;
   height: 30px;
-=======
   gap: 15px;
->>>>>>> feature/Style-Improvement
   align-items: center;
 }
 
