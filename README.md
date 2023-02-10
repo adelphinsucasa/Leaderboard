@@ -103,6 +103,16 @@ ve Venezuela 💓
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+<ul>
+  <li>- Live Demo</li>
+  <li>- Walkthrough Video</li>
+  <li>- Inclusion in the Portfolio</li>
+ </ul>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
