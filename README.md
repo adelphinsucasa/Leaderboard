@@ -66,6 +66,8 @@ The leaderboard website displays scores submitted by different players. It also 
 
 <a href="https://adelphinsucasa.github.io/Leaderboard/dist/">Leaderboard</a>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and use as a template for your own Leaderboard site, follow these steps.
