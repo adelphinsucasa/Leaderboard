@@ -13,12 +13,16 @@ const AddPlayer = async (data = {}) => {
 };
 
 const GetPlayers = async () => {
+<<<<<<< HEAD
   const response = await fetch(uri, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json; charset=UTF-8',
     },
   });
+=======
+  const response = await fetch(uri);
+>>>>>>> feature/Style-Improvement
 
   return response.json();
 };

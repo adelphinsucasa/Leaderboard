@@ -1,7 +1,7 @@
 <a name="Leaderboard by Jose Delphin"></a>
 
 <div align="center">
-  <img  src="./assets/images/JoseDelphinLogo.jpeg" alt="logo" width="140"  height="auto" />
+  <img  src="Leaderboard.jpg" alt="logo" width="1080"  height="400" />
   <br/>
 
   <h3><b>Jose Alejandro Delphin Puente</b></h3>
@@ -55,16 +55,16 @@ The leaderboard website displays scores submitted by different players. It also 
 
 #### Key Features <a name="key-features"></a>
  <ul>
-  <li>- **HTML Interface with CSS**</li>
-  <li>- **JavaScript**</li>
-  <li>- **Webpack Management**</li>
-  <li>- **Leaderboard API service**</li>
+  <li>HTML Interface with CSS</li>
+  <li>JavaScript</li>
+  <li>Webpack Management</li>
+  <li>Leaderboard API service</li>
  </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
 
-<a href="#">Coming Soon</a>
+<a href="https://adelphinsucasa.github.io/Leaderboard/dist/">Leaderboard</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -100,6 +100,15 @@ ve Venezuela 💓
 - GitHub: [@githubhandle](https://github.com/adelphinsucasa)
 - Twitter: [@twitterhandle](@josedelphin)
 - LinkedIn: [LinkedIn](@adelphin)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+<ul>
+  <li>Walkthrough Video</li>
+  <li>Inclusion in the Portfolio</li>
+ </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

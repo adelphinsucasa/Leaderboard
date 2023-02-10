@@ -4,6 +4,11 @@ const btnRefresh = document.querySelector('.btnRefresh');
 const formAddNewData = document.querySelector('.formAddNewData');
 const txtName = document.getElementById('name');
 const txtScore = document.getElementById('score');
+<<<<<<< HEAD
+=======
+const picture = document.getElementById('pictures');
+const imgBG = document.createElement('img');
+>>>>>>> feature/Style-Improvement
 
 const updateDom = () => {
   let cAux = '';
@@ -16,6 +21,16 @@ const updateDom = () => {
     });
 };
 
+<<<<<<< HEAD
+=======
+imgBG.setAttribute('src', './assets/images/GameBackground.jpg');
+imgBG.setAttribute('alt', 'Game Background');
+picture.appendChild(imgBG);
+if (window.matchMedia('(max-width: 767px)').matches) {
+  picture.appendChild(imgBG.cloneNode(true));
+}
+
+>>>>>>> feature/Style-Improvement
 btnRefresh.addEventListener('click', () => {
   document.getElementById('playersList').innerHTML = '';
   updateDom();
