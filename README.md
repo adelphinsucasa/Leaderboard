@@ -1,7 +1,7 @@
 <a name="Leaderboard by Jose Delphin"></a>
 
 <div align="center">
-  <img  src="Leaderboard.jpg" alt="logo" width="460"  height="auto" />
+  <img  src="Leaderboard.jpg" alt="logo" width="640"  height="200" />
   <br/>
 
   <h3><b>Jose Alejandro Delphin Puente</b></h3>
