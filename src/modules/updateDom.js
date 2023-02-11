@@ -11,7 +11,7 @@ const updateDom = () => {
   let cAux = '';
   GetPlayers()
     .then((data) => {
-      data.result.forEach((item) => {
+      data.result.sort((a, b) => a.score - b.score).forEach((item) => {
         cAux += `<li>${item.user}: ${item.score}</li>`;
       });
       document.getElementById('playersList').innerHTML = cAux;
